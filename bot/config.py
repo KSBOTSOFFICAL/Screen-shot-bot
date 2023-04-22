@@ -6,7 +6,7 @@ class Config:
     API_ID = "2929027"
     API_HASH = "2beecc3ee357e6e3f2b2e783d4159f9f"
     BOT_TOKEN = "1878355269:AAGz9ApuIzIPs1EOjKHdCPQ_7bz2oiWRlUk"
-    SESSION_NAME = "KSGOOGLEDRIVEBOT"
+    SESSION_NAME = "ScreenShotBot"
     LOG_CHANNEL = "-1001866679531"
     DATABASE_URL = "mongodb+srv://ksai:ksai@cluster0.kayzwoi.mongodb.net/cluster0?retryWrites=true&w=majority"
     AUTH_USERS = "959184369"
